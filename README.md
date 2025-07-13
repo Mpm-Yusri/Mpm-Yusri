@@ -7,10 +7,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naamiahmed&label=Profile%20views&color=0e75b6&style=flat" alt="NaamiAhmed" />
-</p>
-
 
 - 🔭 I’m currently working on **Flutter and React** and exploring **Web Developer**.
 - 🌱 I’m a student at **Institute of Technology University of Moratuwa**, focusing on **Full Stack Developer**.
